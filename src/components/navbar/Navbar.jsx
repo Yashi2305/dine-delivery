@@ -22,7 +22,7 @@ const Navbar = ({ setShowLogin }) => {
           onClick={() => setMenu("home")}
           className={menu === "home" ? "active" : ""}
         >
-          Home
+          Yashi ka dhaba sasta wala
         </Link>
         <a
           href="#explore-menu"
